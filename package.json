@@ -1,0 +1,31 @@
+{
+  "name": "cypress-gmail-tester",
+  "version": "1.0.0",
+  "description": "Verify emails with Cypress!",
+  "main": "gmail-tester.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cypress",
+    "cypress-plugin",
+    "cypress-gmail-tester",
+    "gmail-tester"
+  ],
+  "author": "Lev Gelfenbuim <lev@webtestingwithcypress.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gmail-tester": "^1.3.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+github.com:levz0r/cypress-gmail-tester.git"
+  },
+  "bugs": {
+    "url": "https://github.com/levz0r/cypress-gmail-tester/issues"
+  },
+  "homepage": "https://github.com/levz0r/cypress-gmail-tester",
+  "devDependencies": {
+    "cypress": "^12.0.1"
+  }
+}
