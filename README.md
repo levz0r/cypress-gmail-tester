@@ -2,7 +2,7 @@
 
 # cypress-gmail-tester
 
-Use Cypress E2E tests to check Gmail-based inboxes.
+Use Cypress E2E tests to check Gmail-based inboxes using the [gmail-tester](https://github.com/levz0r/gmail-tester) library.
 
 # Usage
 
