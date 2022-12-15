@@ -9,7 +9,7 @@ Use Cypress E2E tests to check Gmail-based inboxes using the [gmail-tester](http
 1.  Install using `npm`:
 
 ```
-npm install --save cypress-gmail-tester
+npm install --save gmail-tester
 ```
 
 2. Modify `cypress.config.json`
